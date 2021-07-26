@@ -1,0 +1,12 @@
+:root{
+   /* !colors */
+   --back-black: #3c3c3c;
+   --dark-blue:#474664;
+   --light-grey:#c4c4c4;
+   --white:#ffffff;
+   --text-black:#000000;
+   /* !font sizes */
+   --fs-title:36px;
+   --fs-rem:24px;
+   --fs-small-txt:18px;
+}
